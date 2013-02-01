@@ -1,4 +1,4 @@
-
+#!/usr/bin/env ruby
 def scrub_local_repo (*filenames)
 
   raise ArgumentError, 'Arguments array cannot be empty' unless filenames.any?
