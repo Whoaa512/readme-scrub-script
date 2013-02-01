@@ -11,4 +11,4 @@ end
 
 
 # TODO: before scrubbing check to make sure current dir is a catalyst repo
-scrub_local_repo 'README.*'
+scrub_local_repo 'README*'
